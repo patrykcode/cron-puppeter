@@ -1,0 +1,19 @@
+{
+  "name": "shop_auchan",
+  "version": "1.0.0",
+  "description": "Pobieranie produktów ze sklepu auchan",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "0.0.1-security",
+    "mysql2": "^2.3.3",
+    "puppeteer": "^19.2.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patryk Pawlicki",
+  "license": "ISC"
+}
